@@ -1,68 +1,145 @@
-## Hi there 👋
+# 🌆 < BIENVENIDO AL CIBERESPACIO /> 🌃
 
-<!--
-**DARK141-hub/DARK141-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ascii
+███████╗██╗   ██╗███╗   ██╗████████╗██╗  ██╗██╗    ██╗ █████╗ ██╗   ██╗███████╗
+██╔════╝╚██╗ ██╔╝████╗  ██║╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║   ██║██╔════╝
+███████╗ ╚████╔╝ ██╔██╗ ██║   ██║   ███████║██║ █╗ ██║███████║██║   ██║█████╗  
+╚════██║  ╚██╔╝  ██║╚██╗██║   ██║   ██╔══██║██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝  
+███████║   ██║   ██║ ╚████║   ██║   ██║  ██║╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗
+╚══════╝   ╚═╝   ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=retro&color=0:FF0080,100:7928CA&height=250&section=header&text=HACKERMAN&fontSize=90&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud&descAlignY=55&descAlign=50" width="100%"/>
+  
+### ✨ Desarrollador Web | Artista Digital | Constructor de Sueños Píxel ✨
+
+[![GitHub followers](https://img.shields.io/github/followers/DARK141-hub?style=for-the-badge&logo=github&logoColor=white&color=ff00ff&labelColor=1a1a2e)](https://github.com/DARK141-hub)
+[![Website](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F700FF&center=true&vCenter=true&width=435&lines=Bienvenido+al+Cyberespacio;Ingeniero+en+Proceso;Amante+del+Retro+Gaming" alt="Typing SVG" />
-</h1>
+---
+
+## 🎮 > SOBRE_MÍ.exe
+
+```javascript
+const developer = {
+    nombre: "ALAN",
+    ubicación: "Heroica Matamoros, MX 🇲🇽",
+    código: ["JavaScript", "HTML", "CSS", "Python"],
+    estética: ["Synthwave", "Vaporwave", "Dreamcore", "Pixel Art"],
+    herramientas: ["React", "Node.js", "Git", "Figma"],
+    sueño: "Crear experiencias web que transporten a otra dimensión"
+}
+```
+
+Navegando entre líneas de código y mundos retrofuturistas. Transformo ideas en interfaces que brillan como neones en la oscuridad.
+
+---
+
+## 🌸 > STACK_TECNOLÓGICO
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xvGEx3cazyswm04lW/giphy.gif" width="600" />
+
+### ⚡ Frontend Dreamscape
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🎨 Herramientas de Diseño
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 💾 Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-<h3 align="center">👾 Sobre Mí / About Me 👾</h3>
-
-<p align="center">
- 🔭 Actualmente soy <b>IT Manager & Tech Teacher</b>, enseñando a las nuevas generaciones y manteniendo la infraestructura escolar al 100.<br>
- 🌱 Estudiante de <b>Ingeniería en Redes Inteligentes y Ciberseguridad</b>.<br>
- 💾 Me encanta la virtualización, el <b>Hacking Ético</b> y la onda <b>Retro</b>.<br>
- ⚡ <i>Fun fact:</i> Si no estoy configurando una VLAN, seguro estoy emulando juegos de PS1.
-</p>
-
-<br/>
-
-<h3 align="center">💻 Tech Stack & Herramientas 💻</h3>
+## 🎨 > PROYECTOS_DESTACADOS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
+| 🌟 Proyecto | 💎 Descripción | 🔗 Tech Stack |
+|-------------|----------------|---------------|
+| **[Neon Dreams Portfolio](https://github.com/tu-usuario/proyecto1)** | Portfolio interactivo con estética synthwave | React, CSS Animations, Three.js |
+| **[Vaporwave Todo App](https://github.com/tu-usuario/proyecto2)** | Gestor de tareas con vibes retro | JavaScript, LocalStorage, Pixel Art |
+| **[Dreamcore Landing](https://github.com/tu-usuario/proyecto3)** | Landing page surrealista y atmosférica | HTML, CSS, GSAP |
+
 </div>
 
-<br/>
+---
+
+## 📊 > ESTADÍSTICAS.json
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARK141-hub&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK141-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DARK141-hub&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00d9ff&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARK141-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DARK141-hub&theme=synthwave&hide_border=true&background=0d1117&ring=ff00ff&fire=00d9ff&currStreakLabel=ff00ff)
+
 </div>
 
-<br/>
+---
+
+## 🌴 > VIBE_ACTUAL
+
+```
+Actualmente codificando al ritmo de: 🎵 Synthwave Mix
+Estado mental: ░░░▓▓▓▓▓▓▓▓░░░ [CREATIVE MODE]
+Proyecto actual: Construyendo el futuro con pixeles del pasado
+```
+
+---
+
+## 📡 > CONECTA_CONMIGO
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Lp9pyGyKpS5U2Y17tF/giphy.gif" width="100%" height="20" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu_usuario)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu_id)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"El código es poesía, el diseño es arte"*
+
+```
+┌─────────────────────────────────────┐
+│  Gracias por visitar mi espacio ✨  │
+│  ¡Colaboremos y creemos magia! 🌟   │
+└─────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=ff00ff&style=for-the-badge)
+
+⭐️ Si te gustó mi perfil, dale una estrella a mis repos ⭐️
+
+</div>
+
+---
+
+<div align="center">
+  
+**🌸 Hecho con amor y líneas de código 💜**
+
+![Pixel Heart](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif)
+
 </div>
